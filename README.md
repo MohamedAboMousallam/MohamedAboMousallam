@@ -8,7 +8,7 @@ a recent aspiring computer science graduate with some work experience
 
 * 🌍  I'm based in Hungary
 * ✉️  You can contact me at [mohamed.aymn.mosalam@gmail.com](mailto:mohamed.aymn.mosalam@gmail.com)
-* 🚀  I'm currently working on [braille translator](http://braille translator )
+* 🚀  I'm currently working on [braille translator]
 * 🧠  I'm learning DevOps tools
 * 🤝  I'm open to collaborating on Projects
 
