@@ -6,7 +6,7 @@ Software engineer
 
 a recent aspiring computer science graduate with some work experience
 
-* 🌍  I'm based in Hungary
+* 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mohamed.aymn.abomosallam@gmail.com](mailto:mohamed.aymn.abomosallam@gmail.com)
 * 🚀  I'm currently working on [braille translator]
 * 🧠  I'm learning DevOps tools
